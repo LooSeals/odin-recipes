@@ -1,0 +1,28 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+}
+
+.mainContainer {
+    background-color: lightpink;
+    border: 2px solid darkred;
+    border-radius: 10px;
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 50px;
+    color: darkolivegreen;
+}
+
+.recipe {
+    border: 2px solid darkred;
+    width: 200px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin: 0 auto;
+
+}
